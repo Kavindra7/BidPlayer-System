@@ -1,0 +1,5 @@
+commands-
+
+frontend: npm run serve -- --port 8050
+
+backend: dotnet watch (or execute .exe file)

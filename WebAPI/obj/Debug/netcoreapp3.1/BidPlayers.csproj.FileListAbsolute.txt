@@ -1,0 +1,216 @@
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.exe
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.deps.json
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.runtimeconfig.json
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.runtimeconfig.dev.json
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.pdb
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.Views.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BidPlayers.Views.pdb
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\WkWrap.Core.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.csproj.AssemblyReference.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.AssemblyInfoInputs.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.AssemblyInfo.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.csproj.CoreCompileInputs.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.RazorAssemblyInfo.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.RazorAssemblyInfo.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\staticwebassets\BidPlayers.StaticWebAssets.Manifest.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.TagHelpers.input.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.TagHelpers.output.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.RazorCoreGenerate.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\Razor\Views\Auth\OtpMailTemplate.cshtml.g.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\Razor\Views\Auth\PasswordResetTemplate.cshtml.g.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\Razor\Views\Auth\VerifyEmailTemplate.cshtml.g.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\Razor\Views\Notifications\RecordActionMail.cshtml.g.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ReportLayout.cshtml.g.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.RazorTargetAssemblyInfo.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.RazorTargetAssemblyInfo.cs
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.Views.pdb
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.csproj.CopyComplete
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.dll
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.pdb
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\BidPlayers.genruntimeconfig.cache
+C:\Users\akala\OneDrive\Documents\RadSystems\ASPRad Projects\bidplayers\asp-dotnetcore-api\obj\Debug\netcoreapp3.1\Razor\Views\Users\ExportList.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.exe
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.deps.json
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.runtimeconfig.json
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.runtimeconfig.dev.json
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.pdb
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.Views.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.Views.pdb
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\WkWrap.Core.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.csproj.AssemblyReference.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.AssemblyInfoInputs.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.AssemblyInfo.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.csproj.CoreCompileInputs.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorAssemblyInfo.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorAssemblyInfo.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BidPlayers.StaticWebAssets.Manifest.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.TagHelpers.input.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.TagHelpers.output.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorCoreGenerate.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Auth\OtpMailTemplate.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Auth\PasswordResetTemplate.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Auth\VerifyEmailTemplate.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Notifications\RecordActionMail.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ReportLayout.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Users\ExportList.cshtml.g.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorTargetAssemblyInfo.cache
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorTargetAssemblyInfo.cs
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.Views.pdb
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.csproj.CopyComplete
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.dll
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.pdb
+C:\Users\akala\OneDrive\Desktop\BidPlayers\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.genruntimeconfig.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.exe
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.deps.json
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.runtimeconfig.json
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.runtimeconfig.dev.json
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.pdb
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.Views.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BidPlayers.Views.pdb
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\WkWrap.Core.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.csproj.AssemblyReference.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.AssemblyInfoInputs.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.AssemblyInfo.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.csproj.CoreCompileInputs.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorAssemblyInfo.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorAssemblyInfo.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BidPlayers.StaticWebAssets.Manifest.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.TagHelpers.input.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.TagHelpers.output.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorCoreGenerate.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Auth\OtpMailTemplate.cshtml.g.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Auth\PasswordResetTemplate.cshtml.g.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Auth\VerifyEmailTemplate.cshtml.g.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Notifications\RecordActionMail.cshtml.g.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ReportLayout.cshtml.g.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\Razor\Views\Users\ExportList.cshtml.g.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorTargetAssemblyInfo.cache
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.RazorTargetAssemblyInfo.cs
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.Views.pdb
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.csproj.CopyComplete
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.dll
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.pdb
+C:\Users\Kavindra\Desktop\BidPlayersDB\WebAPI\obj\Debug\netcoreapp3.1\BidPlayers.genruntimeconfig.cache
